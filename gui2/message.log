@@ -1,0 +1,60 @@
+WARNING: JavaScript support is enabled. This feature is a work in progress. Only enable JavaScript support on documents you know and trust.
+Tkhtml 3.1 successfully loaded from C:\Users\michaelmischo\AppData\Local\Programs\Python\Python313\Lib\site-packages\tkinterweb_tkhtml\tkhtml
+Starting TkinterWeb for Intel64 Family 6 Model 198 Stepping 2, GenuineIntel Windows with Python 3.13.9
+Welcome to TkinterWeb!
+                                
+The API changed in version 4. See https://tkinterweb.readthedocs.io/ for details.
+
+Debugging messages are enabled. Use the parameter `messages_enabled = False` when calling HtmlFrame() or HtmlLabel() to disable these messages.
+                                
+Load about:tkinterweb for debugging information.
+                                
+If you benefited from using this package, please consider supporting its development by donating at https://buymeacoffee.com/andereoo - any amount helps!
+Fetching image from file:///\\skywalker.mischos.net\MEDIA\Literature\comicutils\gui/Images/Masou_Gakuen_HxH_V01_Cover.jp...
+Successfully loaded file:///\\skywalker.mischos.net\MEDIA\Literature\comicutils\gui/Images/Masou_Gakuen_HxH_V01_Cover.jp...
+Fetching image from file:///images/9780525561736_cover.jpg
+Successfully loaded file:///images/9780525561736_cover.jpg
+Fetching image from file:///images/Art01_Frontispiece_MarkTwain_r2.png
+Successfully loaded file:///images/Art01_Frontispiece_MarkTwain_r2.png
+Fetching image from file:///images/9780525561736_title_page.jpg
+Successfully loaded file:///images/9780525561736_title_page.jpg
+Fetching image from file:///images/page_xiii.png
+Successfully loaded file:///images/page_xiii.png
+Fetching image from file:///images/Art02_Part1Opener_MarkTwain_r2.png
+Successfully loaded file:///images/Art02_Part1Opener_MarkTwain_r2.png
+Fetching image from file:///images/page_xiii.png
+Successfully loaded file:///images/page_xiii.png
+Fetching image from file:///images/page_xiii.png
+Successfully loaded file:///images/page_xiii.png
+Fetching image from file:///images/9781668006412.jpg
+Successfully loaded file:///images/9781668006412.jpg
+Fetching image from file:///images/title.jpg
+Successfully loaded file:///images/title.jpg
+Fetching image from file:///images/9781668006412.jpg
+Successfully loaded file:///images/9781668006412.jpg
+Fetching image from file:///images/title.jpg
+Successfully loaded file:///images/title.jpg
+Fetching image from file:///images/9781668006412.jpg
+Successfully loaded file:///images/9781668006412.jpg
+Fetching image from file:///images/title.jpg
+Successfully loaded file:///images/title.jpg
+Fetching image from file:///images/common1.jpg
+Successfully loaded file:///images/common1.jpg
+Fetching image from file:///images/title.jpg
+Successfully loaded file:///images/title.jpg
+Fetching image from file:///images/title.jpg
+Successfully loaded file:///images/title.jpg
+Fetching image from file:///images/9781668006412.jpg
+Successfully loaded file:///images/9781668006412.jpg
+Fetching image from file:///images/title.jpg
+Successfully loaded file:///images/title.jpg
+Fetching image from file:///images/9781668006412.jpg
+Successfully loaded file:///images/9781668006412.jpg
+Fetching image from file:///images/title.jpg
+Successfully loaded file:///images/title.jpg
+Fetching image from file:///images/common1.jpg
+Successfully loaded file:///images/common1.jpg
+Fetching image from file:///images/common1.jpg
+Successfully loaded file:///images/common1.jpg
+Fetching image from file:///images/common1.jpg
+Successfully loaded file:///images/common1.jpg
