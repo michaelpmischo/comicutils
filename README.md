@@ -51,4 +51,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ## 📄 License
 
-Distributed under the [GNU3.0] License. See `LICENSE` for more information.
+Distributed under the [GPL3.0] License. See `LICENSE` for more information.
