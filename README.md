@@ -18,8 +18,8 @@ A lightweight Python GUI/CLI tool for reading, organizing, renaming, and convert
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com[your-username]/[repo-name].git
-   cd [repo-name]
+   git clone https://github.com/michaelpmischo/comicutils.git
+   cd comicutils
    execute ComicViewer.py, ComicMaker.py, ComicConverter.py, etc...
    ```
 
@@ -29,6 +29,7 @@ A lightweight Python GUI/CLI tool for reading, organizing, renaming, and convert
 
 ### Command Line Example
 ```bash
+./ComicMaker.py -f -o /output/path /path/to/images-or-path-containing-collections
 ```
 
 ### Python Library Example
